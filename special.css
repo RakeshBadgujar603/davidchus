@@ -1,0 +1,40 @@
+.spacial-div{
+    width: 45%;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.spacial-p1{
+    font-size: 20px;
+    text-align:right
+}
+
+.spacial-p2{
+    font-size: 20px;
+}
+
+.spacial-image{
+    margin-right: 10px;
+    height: 150px;
+    width: 250px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.spacial-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 20px;
+    justify-content: space-around;
+}
+
+#spacialh1{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+
+

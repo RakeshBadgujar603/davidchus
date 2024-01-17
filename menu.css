@@ -1,0 +1,30 @@
+#menuh1{
+    font-size: 22px;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    
+}
+
+#menup{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+
+.menu-item{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+}
+
+.menu-image{
+    height: 200px;
+    width: 300px;
+    
+}
+
